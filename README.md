@@ -1,16 +1,50 @@
 # phonedialerapp
+📱 Flutter Phone Dialer App
 
-A new Flutter project.
+A simple and clean Phone Dialer App built with Flutter.
+This project was created to practice UI, state management, and device functionality (launching phone dialer via url_launcher).
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+Dial pad with clean UI
 
-A few resources to get you started if this is your first Flutter project:
+Click-to-call using the device dialer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Backspace & clear functionality
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Responsive design
+
+Lightweight and beginner-friendly
+
+🛠️ Tech Stack
+
+Flutter
+
+Dart
+
+url_launcher package
+
+📸 Screenshots
+
+(Add screenshots here if you have them)
+
+📂 Folder Structure
+lib/
+ ├─ main.dart
+ ├─ screens/
+ ├─ widgets/
+ └─ utils/
+
+📦 Installation
+git clone <your-repo-link>
+cd phone_dialer_app
+flutter pub get
+flutter run
+
+🤝 Contributing
+
+Fork the repo, create a feature branch, and submit a PR.
+
+⭐ Show Your Support
+
+If you like this project, don’t forget to star ⭐ the repository!
