@@ -24,7 +24,7 @@ Dart
 
 url_launcher package
 
-📸 Screenshots
+📸 <img width="1710" height="882" alt="Image" src="https://github.com/user-attachments/assets/95fe3296-8c83-49d6-afa7-70c410d1d8ce" />
 
 (Add screenshots here if you have them)
 
